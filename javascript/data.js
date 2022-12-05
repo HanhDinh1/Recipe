@@ -1,13 +1,13 @@
 const comSuon = [
-    "season pork generously with salt, pepper and garlic powder",
+    "season pork rib generously with salt, pepper and garlic powder",
     "place in a bowl",
     "cover the bowl and let sit for 15 minutes",
-    "wash 3 cups of jasmine rice"
+    "wash 3 cups of jasmine rice",
     "cook rice for 30 minutes",
-    "grill the pork medium heat until golden both sides using a brush to baste with oil",
+    "grill the rib with medium heat until golden both sides using a brush to baste with oil",
     "cut green onion",
-    "heat pan with peanut oil and fry the green onion",
-    "put rice, grilled pork and green onion together",
+    "heat pan with peanut oil and fry the green onion for 30 seconds",
+    "put rice, grilled pork rib and green onion together",
     "enjoy",
 ];
 
